@@ -1,4 +1,4 @@
-# Diabetes-prediction-system-using-machine-learning
+# Diabetes prediction system using machinelearning
 Diabetes prediction system using machine learning Code, Document And Vidoe Tutorial
 
 ![Diabetes](https://github.com/user-attachments/assets/84a1a1bb-e8ba-4d32-8608-bc3b6e9430e9)
